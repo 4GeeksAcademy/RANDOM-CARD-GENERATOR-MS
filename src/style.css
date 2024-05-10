@@ -51,3 +51,18 @@ body {
     color: red;
   }
 }
+.card.diamond {
+  color: red;
+}
+
+.card.heart {
+  color: red;
+}
+
+.card.spade {
+  color: black;
+}
+
+.card.club {
+  color: black;
+}
